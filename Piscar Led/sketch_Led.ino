@@ -1,5 +1,5 @@
 
-//projeto arduino pisca-pisca led
+// Piscar Led do Arduino //
 
 void setup(){
   pinMode(10, OUTPUT);
